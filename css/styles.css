@@ -1,0 +1,193 @@
+/* cadastro */
+
+.cadast {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.laput {
+    position: relative;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 375px;
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.laput h1 {
+    position: relative;
+    font-size: 35px;
+    font-family: 'Lucida Sans';
+    color: #ffabab;
+}
+
+.laput label {
+    position: relative;
+    display: flex;
+    margin-bottom: 2px;
+    padding: 3px;
+    font-family: 'Lucida Sans';
+    margin-bottom: 5px;
+    color: #ffabab;
+}
+
+.laput input {
+    position: relative;
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    margin-bottom: 5px;
+    color: #fe8383;
+}
+
+.laput button[type="submit"] {
+    position: relative;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+    font-family: Arial, sans-serif;
+}
+
+.laput button[type="submit"]:hover {
+    background-color: #ffabab;
+}
+
+.laput a {
+    color: #ffabab;
+    position: relative;
+    text-decoration: none;
+}
+
+.laput a:hover {
+    color: #fe7373;
+    text-decoration: underline;
+}
+
+.laput a:visited {
+    color: #ffabab;
+}
+
+.alerts {
+    color: #ffabab;
+    background-color: #fe7373;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 30px;
+    position: absolute;
+    top: 145px;
+    left: 640px;
+    z-index: 2;
+}
+
+.alertss {
+    color: #ffabab;
+    background-color: #fe7373;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 30px;
+    position: absolute;
+    top: 145px;
+    left: 695px;
+    z-index: 2;
+}
+
+/* index */
+
+.index {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.inbel {
+    position: relative;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 375px;
+    height: 270px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.inbel h1 {
+    position: relative;
+    font-size: 35px;
+    font-family: 'Lucida Sans';
+    color: #ffabab;
+}
+
+.inbel label {
+    position: relative;
+    display: flex;
+    margin-bottom: 2px;
+    padding: 3px;
+    font-family: 'Lucida Sans';
+    margin-bottom: 5px;
+    color: #ffabab;
+}
+
+.inbel input {
+    position: relative;
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    margin-bottom: 5px;
+    color: #fe8383;
+}
+
+.inbel button[type="submit"] {
+    position: relative;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+    font-family: Arial, sans-serif;
+}
+
+.inbel button[type="submit"]:hover {
+    background-color: #ffabab;
+}
+
+.inbel a {
+    color: #ffabab;
+    position: relative;
+    text-decoration: none;
+}
+
+.inbel a:hover {
+    color: #fe7373;
+    text-decoration: underline;
+}
+
+.inbel a:visited {
+    color: #ffabab;
+}
